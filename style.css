@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* navbar */
+
 .nav-img{
     position: relative;
     float: left;
@@ -10,14 +13,49 @@
     width: 50px;
 }
 
+
+/* header section */
+.card_body_about{
+  height: 26rem;
+  width: 19rem;
+  border-radius: 1.0rem;
+}
+
+.card-text{
+    text-decoration: dashed;
+    text-align: justify;
+    font-size: 1.%;
+   padding: 2rex;
+  
+}
+
+.header_font{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* about section */
+.tab-content {
+    font-size: 4rem;
+    text-align: center;
+    
+}
+
+
+
+
+
 /*SERVICES START*/
 
-.card-body{
+.card_body{
     width: 20rem;
     height: 12rem;
+    border-radius: 1.0rem;
 }
 .card_custom{
-    width: 22rem;
+    width: 21rem;
+    box-shadow: 1px 1px 1px 1px;
     
 
 
